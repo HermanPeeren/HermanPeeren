@@ -1,4 +1,10 @@
-## Hi there 👋
+## Herman Peeren
+
+Independent, creative software builder. Been around from punch cards to cloud computing. Proponent of a model driven approach.
+
+I like modelling. When creating software you first make a model of the problem and solution. That is what philosophers have been doing for ages: building a model in order to better understand the complex world around us. The model and the modelling language are abstractions, found in a creative process.
+
+(https://holopin.me/hermanpeeren)](https://holopin.io/@hermanpeeren)
 
 <!--
 **HermanPeeren/HermanPeeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
